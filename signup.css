@@ -1,0 +1,15 @@
+body, html {
+  height: 100%;
+  font-family: 'Poppins', sans-serif;
+
+  /* The image used */
+  background-image: url("/IMAGES/pexels-jessica-lewis-creative-583848.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
